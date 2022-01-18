@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: b3d7a8e9d030906348742b1c33983b8a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2000
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07ee324cc5f942bd873cb6a1d2e0baf
+      internalID: -1777279006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2000
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c630f47a71912b6ba5a55f6a881888
+      internalID: -1117485319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2000
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43666bcda26f866abb780c18d9be0850
+      internalID: -701289932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2000
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa86a6e18d05b809b682e0bc5b6fc0
+      internalID: 376499054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 2000
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8d7e322946a7e26aef343686742aad
+      internalID: 1809057948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2000
+        width: 408
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf56e97c967dd3a368ca3f6477a32ae8
+      internalID: -559743796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 2000
+        width: 422
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf172ab861157e6cb51b35bea0f5da2
+      internalID: 1927803032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 2000
+        width: 422
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ee88a9c956be66953f430155ea968
+      internalID: -2050410741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1502
+        width: 422
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f84d95a6de075879f9deff69d5c0ea
+      internalID: 422848447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1502
+        width: 422
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f29535ca3804154b9b4c2c7dca8ee0
+      internalID: 637157711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1502
+        width: 422
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32354907f8b51c6b587b623ab127d6
+      internalID: -1724206948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1502
+        width: 424
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d1306a40fc0d78a05c07e920ee5a1
+      internalID: 659474164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1502
+        width: 454
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a100814f3703c8eea92b68b6b2844368
+      internalID: -1587484448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1502
+        width: 422
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209812bfb1289d34b456d365fd37874
+      internalID: 1511367349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1502
+        width: 453
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84086131ce410dc1a0d3ac15de25b26
+      internalID: 162386907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1502
+        width: 454
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a38831ba90834d599e816d546b01d1
+      internalID: 466089270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 1502
+        width: 421
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d381f4170197b5a8c0e3a46193402d
+      internalID: 1871268277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1001
+        width: 390
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da97c5524c01fc19bd0f570309fc68
+      internalID: -445983873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1001
+        width: 391
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162d471f39f53e5bb98eeda622ca575
+      internalID: 1671269757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1001
+        width: 391
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b695929139458d9ba7e210803c4e08
+      internalID: 681253264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1001
+        width: 390
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d702611247be1c8a0c3c6088766ac
+      internalID: 291252154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 500
+        width: 406
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fe5f69b9096f233a4921eb91959474
+      internalID: 363465739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 500
+        width: 390
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c9fe7d72fd08f392d492d908d81fd
+      internalID: -494353346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 500
+        width: 390
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4a6f6e57c368fb80951c80d9c4d59
+      internalID: -1740212011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 500
+        width: 388
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05925f8a7225a4e4da009fe6baed05d5
+      internalID: -1493914107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 500
+        width: 421
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ceec5829792048a7e176eb48df0d3
+      internalID: -753754829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 500
+        width: 406
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d24d71af6ff3c12be1a157a1d54963
+      internalID: -20429009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724e9083bcf5f361b799b6c17e71525
+      internalID: -1084523349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1
+        width: 391
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5ea0272b227ce7892876efc1630f3
+      internalID: -788405382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1
+        width: 391
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4602d6921567011b675673b846c431
+      internalID: -114080766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc72d73662a7fd38316b3c20f5ea3b
+      internalID: 1827059661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1
+        width: 438
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f665b0fcbf02fefaa339ad825b3e3c4
+      internalID: -183500993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1
+        width: 472
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe67e7135c06097ab456fdbdfc0fa00
+      internalID: -1380080280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1
+        width: 503
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92131c2fd7ee35668c326a631d12d21
+      internalID: 326914928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1
+        width: 501
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a51e6ad015374398bd88f4ead603dc
+      internalID: -1088827669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcher-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 1
+        width: 503
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79da16ac958ffcfa587a6c80dd4b88
+      internalID: 1457231262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GoblinArcher-Sheet_17: -445983873
+      GoblinArcher-Sheet_1: -1117485319
+      GoblinArcher-Sheet_5: -559743796
+      GoblinArcher-Sheet_7: -2050410741
+      GoblinArcher-Sheet_0: -1777279006
+      GoblinArcher-Sheet_18: 1671269757
+      GoblinArcher-Sheet_35: 1457231262
+      GoblinArcher-Sheet_20: 291252154
+      GoblinArcher-Sheet_15: 466089270
+      GoblinArcher-Sheet_30: 1827059661
+      GoblinArcher-Sheet_29: -114080766
+      GoblinArcher-Sheet_32: -1380080280
+      GoblinArcher-Sheet_33: 326914928
+      GoblinArcher-Sheet_28: -788405382
+      GoblinArcher-Sheet_26: -20429009
+      GoblinArcher-Sheet_4: 1809057948
+      GoblinArcher-Sheet_24: -1493914107
+      GoblinArcher-Sheet_11: 659474164
+      GoblinArcher-Sheet_34: -1088827669
+      GoblinArcher-Sheet_14: 162386907
+      GoblinArcher-Sheet_6: 1927803032
+      GoblinArcher-Sheet_8: 422848447
+      GoblinArcher-Sheet_25: -753754829
+      GoblinArcher-Sheet_23: -1740212011
+      GoblinArcher-Sheet_16: 1871268277
+      GoblinArcher-Sheet_3: 376499054
+      GoblinArcher-Sheet_22: -494353346
+      GoblinArcher-Sheet_12: -1587484448
+      GoblinArcher-Sheet_9: 637157711
+      GoblinArcher-Sheet_31: -183500993
+      GoblinArcher-Sheet_2: -701289932
+      GoblinArcher-Sheet_21: 363465739
+      GoblinArcher-Sheet_27: -1084523349
+      GoblinArcher-Sheet_10: -1724206948
+      GoblinArcher-Sheet_13: 1511367349
+      GoblinArcher-Sheet_19: 681253264
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
